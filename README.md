@@ -1,3 +1,5 @@
 # Деплой приложения на сервер с использованием pm2
 
-Стартеркит проекта по автоматизации деплоя фронтенда и бэкенда при помощи pm2 (pm2 deploy)
+IP Address: 158.160.60.221  
+Frontend: adudin.nomoredomainswork.ru  
+Backend: api.adudin.nomoredomainswork.ru
